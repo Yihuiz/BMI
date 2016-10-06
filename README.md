@@ -1,2 +1,0 @@
-# BMI
-For Publish Presentation
